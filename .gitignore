@@ -1,0 +1,9 @@
+.idea
+__pycache__
+Logs
+Photos
+
+# exclude docs build folder
+docs/_build
+# exclude docs source folder
+docs/sources_rst
